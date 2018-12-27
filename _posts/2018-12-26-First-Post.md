@@ -44,6 +44,21 @@ title: 자기 주도 학습
 
 # 주제 2
 
-  <a href="https://ssafy2018.github.io/public/Topic1/"><https://ssafy2018.github.io/public/Topic1/></a>
+# SSAFY Start Camp 챗봇 퀘스트
 
-연습 2
+1. 스펙(Specification)<br>
+
+- 롤이라는 게임에서 트롤을 찾아주는 기능<br><br>
+
+사용자 : '아이디', '라인', '챔피언'<br>
+챗봇 : 해당 사용자의 트롤 확률을 찾아줌<br><br>
+
+2. 회고(Retrospective)<br><br>
+
+- 자바로 된 사이트의 크롤링이 원활히 되지 않아서 어려움을 겪음<br><br>
+
+3. 보환 계획(Feedback)<br><br>
+
+- 다양한 경우의 테스트케이스를 수집해서 정확률을 올리고 싶다.
+
+

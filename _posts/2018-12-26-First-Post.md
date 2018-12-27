@@ -16,17 +16,17 @@ title: 자기 주도 학습
     <tr>
       <td>공감<br>(empathize)</td>
       <td>다른 사람의 입장이 되어 그들의 시선으로 바라보는 단계</td>
-      <td>1. 공감지도:<br>ㅇㅇ을 위해 ㅇㅇ하는 기법, 어떠한 방법을 쓰며 어떠한 장점이 있다.</td>
+      <td>1.인터뷰:<br>인터뷰를 통해 사람들의 여러사람의 입장을 듣고 이해한다.</td>
+    </tr>
+    <tr>
+      <td>관찰>br>(observe)</td>
+      <td>&nbsp;</td>
+      <td>2.관찰:<br>사람들에게 과제를 주고 관찰한다.</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>2. ㅇㅇㅇ</td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>3. ㅇㅇㅇ</td>
+      <td>3.경험:<br>고객이 사용하는 것을 직접 사용해 본다.</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
